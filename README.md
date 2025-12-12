@@ -19,7 +19,7 @@ A simple, responsive Weather App that allows users to search for any city and ge
 
 ## Demo
 
-![Weather App Screenshot](demo.png)  
+![Weather App Screenshot](images/demo.png)  
 
 
 ---
